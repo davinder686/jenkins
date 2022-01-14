@@ -1,0 +1,1 @@
+create table user (id int primary key, name varchar(100),email varchar(100),age int);
